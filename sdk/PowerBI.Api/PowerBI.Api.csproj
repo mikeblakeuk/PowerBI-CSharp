@@ -46,6 +46,7 @@
   <ItemGroup>
     <Compile Include="Extensions\V2\DashboardsExtensions.cs" />
     <Compile Include="Extensions\V2\DatasetsExtensions.cs" />
+    <Compile Include="Extensions\V2\HttpOperationExceptionHandler.cs" />
     <Compile Include="Extensions\V2\ImportsExtensions.cs" />
     <Compile Include="Extensions\V2\Models\GenerateTokenRequest.cs" />
     <Compile Include="Extensions\V2\Models\UpdateDatasetParametersRequest.cs" />
